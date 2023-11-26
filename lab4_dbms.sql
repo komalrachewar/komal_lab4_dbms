@@ -1,3 +1,5 @@
+CREATE DATABASE e_comerce_db;
+
 CREATE TABLE supplier(
     supp_id INT NOT NULL AUTO_INCREMENT,
     supp_name varchar(50) NOT NULL,
