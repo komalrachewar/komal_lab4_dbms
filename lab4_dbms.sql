@@ -1,4 +1,4 @@
-CREATE DATABASE e_comerce_db;
+CREATE DATABASE e_commerce_db;
 
 CREATE TABLE supplier(
     supp_id INT NOT NULL AUTO_INCREMENT,
